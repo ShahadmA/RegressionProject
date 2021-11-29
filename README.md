@@ -1,4 +1,4 @@
-![2030vision](https://user-images.githubusercontent.com/93095814/143898016-a7e711ae-aea7-4e56-8e1e-f24cbe66cc56.jpg)
+<img src="https://user-images.githubusercontent.com/93095814/143898016-a7e711ae-aea7-4e56-8e1e-f24cbe66cc56.jpg" width="300" heigh="400" />
 
 
 ## Problem statement:
