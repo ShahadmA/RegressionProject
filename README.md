@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/93095814/143900038-2aa555f0-3edb-4111-ae09-4690a9010eff.jpg" width="600" heigh="600" />
+<img src="https://user-images.githubusercontent.com/93095814/143900038-2aa555f0-3edb-4111-ae09-4690a9010eff.jpg" width="1000" heigh="1000" />
 
 
 ## Problem statement:
