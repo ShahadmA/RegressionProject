@@ -1,6 +1,9 @@
+![2030vision](https://user-images.githubusercontent.com/93095814/143897681-b70f8668-aa13-4d05-8cdf-eb93e28bda06.jpg)
+
+
 ## Problem statement:
 
-In the framework o of working to achieve the Kingdom Vision 2030, Crown Prince
+In the framework of working to achieve the Kingdom Vision 2030, Crown Prince
 Mohammed bin Salman announced the launch of the Kingdom&#39;s strategy to develop
 the city of Riyadh within the framework of its plans to diversify sources of income
 and develop the economy in the KSA With this announcement,the city of Riyadh
