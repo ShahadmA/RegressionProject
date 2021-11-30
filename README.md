@@ -36,9 +36,8 @@ A dataset is about the real estate in Riyadh(Shops for rent), the dataset contai
 
 * Libraries:  Pandas - Plotly - BeautifulSoup - zip_longest- requests - csv  .
 
-* Functions: Web Scraping - Regression .
+* Technologies: Web Scraping - Regression .
 
-* Plots: BarChart plot , Scatter Plot.
 
 
 
