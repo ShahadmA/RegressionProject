@@ -1,8 +1,5 @@
 
 <img src="https://user-images.githubusercontent.com/93095814/144017235-4f6bfb27-0eb2-4206-96dd-18810934deb3.png" width="400" heigh="500" />
-
-
-
 ## Problem statement:
 
 In the framework of working to achieve the Kingdom Vision 2030, Crown Prince
