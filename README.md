@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/93095814/145090403-a9e83094-5966-4c1f-8741-2741e4c88d17.jpg" />
+<img src="https://user-images.githubusercontent.com/93095814/145090403-a9e83094-5966-4c1f-8741-2741e4c88d17.jpg" width="400" heigh="400" />
 
 ## Problem statement:
 
