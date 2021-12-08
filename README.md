@@ -44,6 +44,6 @@ A dataset is about the real estate in Riyadh(Shops for rent), the dataset contai
 Helping the investor to predict the rental price of the shop.
 
 
-By:
-Shahad Almutairi & Sahar Alharthi
+#### By:
+#### Shahad Almutairi & Sahar Alharthi
 
