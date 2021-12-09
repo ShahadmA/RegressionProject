@@ -20,7 +20,7 @@ A dataset is about the real estate in Riyadh(Shops for rent), the dataset contai
 
 * Rows: 1049 rows.
 
-* Data size: 6 columns , 1049 rows.
+* Data size: 6 columns , 1540 rows.
 
 * Data type: text , integer.
 
